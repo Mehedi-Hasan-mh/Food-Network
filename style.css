@@ -1,0 +1,150 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+/*Diet Health part  Starts*/
+
+.coral {
+    color:coral;
+    font-size: 60px;
+}
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;   
+}
+
+.w-50 {
+    width: 50%;
+    padding: 2%;
+}
+.w-50 h1 {
+    font-size: 60px;
+}
+.w-50 p {
+    margin-bottom: 60px;
+}
+.w-50 img {
+    width: 66%;
+    margin-left:200px;
+}
+.link-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 35px;
+    border-radius: 40px;
+    font-weight: bold;
+    color: #fff;
+}
+
+/*Diet Health part  Ends*/
+
+/*About Me part  Starts*/
+
+.mid-area {
+    display: flex;
+    background-image: url('images/7.png');
+    background-repeat: no-repeat;
+}
+
+.third-area {
+    display: flex;
+}
+
+.mid-third {
+    margin-top: 0;
+}
+/*About Me part  Ends*/
+
+/*My Recioies part  Starts*/
+
+.my-reci {
+    text-align: center;
+}
+.my-reci h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+.my-reci p {
+    text-align: center;
+    font-size: 25px;  
+}
+
+    /*Cards part  Starts*/
+
+.card {
+    width: 30%;
+    margin: 50px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+}
+
+.third-area .card img {
+    width: 330px;
+    margin: 5px;
+    padding: 10px;
+}
+.card h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px;
+}
+.card p {
+    margin: 20px 20px 40px;
+    text-align: justify;
+}
+
+ /*Cards part  Ends*/
+
+  /*700k 2.4m  100k part  Starts*/
+
+.fourth-area {
+    overflow: hidden;
+    display: flex;
+    width: 98%;
+    height: 225px;
+    background-color: white
+    text-align: center;
+    border: 1px solid #F3F0D7;
+    margin-left: 10px;
+  
+}
+.fourth-area  h1{
+    margin-left: 225px;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+.fourth-area  h3 {
+    margin-left: 225px;
+    
+}
+
+/*700k 2.4m  100k part  Ends*/
+
+/*Footer part  Starts*/
+
+.footer-bottom {
+    width:100%;
+    height: 250px;
+    background: black;
+    text-align: center;
+}
+
+.footer-bottom span {
+    color: coral;
+    font-size: 30px;
+    font-weight: bold;
+}
+.footer-bottom h4 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+.footer-bottom p {
+    color: #fff;
+    margin-top: 65px;
+}
+
+/*Footer part Ends*/
+
+
